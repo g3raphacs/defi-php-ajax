@@ -1,0 +1,11 @@
+h1{
+    background-color: rgb(30, 87, 210);
+    display: inline-block;
+    font-size: 15px;
+    color: white;
+    padding: 10px;
+}
+form{
+    text-align: center;
+}
+.msg{color:red;font-size: 12px;margin-left: 20px;}
